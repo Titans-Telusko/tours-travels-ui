@@ -56,7 +56,7 @@ This project is licensed under the [MIT License](https://opensource.org/licenses
 
 ## API Client Configuration
 
-The API client is configured to use the `VITE_API_BASE_URL` environment variable. If this variable is not set, the client will default to `http://localhost:3001/api`.
+The API client is configured to use the `VITE_API_BASE_URL` environment variable. If this variable is not set, the client will default to `http://localhost:8084/travels/api/v1`.
 
 ## Environment Variables
 
