@@ -20,8 +20,8 @@ This project provides a comprehensive platform for managing tours and travels, i
 To get started with the project, please follow these steps:
 
 1. Clone the repository to your local machine
-2. Install dependencies using `npm install` or `yarn install`
-3. Start the development server using `npm run dev` or `yarn dev`
+2. Install dependencies using `npm install`
+3. Start the development server using `npm run dev`
 4. Open your web browser and navigate to `http://localhost:5173`
 
 ## Project Structure
